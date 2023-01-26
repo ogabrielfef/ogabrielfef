@@ -12,14 +12,14 @@ Sou um programador apaixonado e entusiasta da tecnologia. Além de me dedicar à
 </div>
 
   <!-- about my journey as a web developer -->
-  ##### My journey is in progress...
+<!--   ##### My journey is in progress...
  <div style="display: inline_block">
     
   <img align="center" alt="biel-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="biel-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="biel-Js" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
  
-</div>
+</div> -->
   
   ##### Contact me
  
