@@ -1,5 +1,5 @@
 ## Hello! I'm ogabrielfef
-
+Sou um programador apaixonado e entusiasta da tecnologia. Além de me dedicar à minha carreira, também sou frequentador assíduo da academia e adoro tudo o que é relacionado ao mundo geek, desde jogos até séries e filmes.
 <!-- profile inf -->
 <div style="display: inline-block">
 <a href="https://github.com/ogabrielfef">
