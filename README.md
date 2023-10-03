@@ -22,10 +22,10 @@
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabrielferreiraf/"   >
+  <a href="https://www.linkedin.com/in/gabrielferreiraf/"  target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/ogabrielfef/"   >
+  <a href="https://www.instagram.com/ogabrielfef/"  target="_blank" >
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
